@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">FORMULARIOS</string>
+    //Imagenes
+    <string name="Descripcion">Logo</string>
+    <string name="math">Mathematics</string>
+    <string name="algebraIMG">algebraForm</string>
+    <string name="caldifIMG">caldifForm</string>
+    <string name="calcIntIMG1">calcIntForm</string>
+    <string name="calcIntIMG2">calcIntForm2</string>
+    <string name="ecuDifIMG1">ecuDifForm</string>
+    <string name="ecuDifIMG2">ecuDifForm2</string>
+    <string name="ecuDifIMG3">ecuDifForm3</string>
+    <string name="geoIMG">geomeForm</string>
+    <string name="geoAIMG1">geoAForm</string>
+    <string name="geoAIMG2">geoAForm2</string>
+    <string name="trigoIMG1">fTrigo1</string>
+    <string name="trigoIMG2">fTrigo2</string>
+    <string name="aboutIMG">IMGABOUT</string>
+    //Encabezados
+    //Portada
+    <string name="TESOEM">Tecnologico de Estudios Superiores del Oriente del Estado de México</string>
+    <string name="alumno">Jiménez Delgado Edson Iván</string>
+    <string name="materia">Introducción a Dispositivos Móviles</string>
+    <string name="profesor">De la O Martinez Victor Hugo</string>
+    <string name="grupo">7S11</string>
+    //Menu
+    <string name="menu">Menu Formularios</string>
+    //Textos
+
+
+    //Botones
+    //Botones Menu
+    <string name="algebra">ALGEBRA</string>
+    <string name="calculo_dif">CALCULO DIFERENCIAL</string>
+    <string name="calculo_int">CALCULO INTEGRAL</string>
+    <string name="ecu_dif">ECUACIONES DIFERENCIALES</string>
+    <string name="geometria">GEOMETRIA</string>
+    <string name="geometria_analitica">GEOMETRIA ANALITICA</string>
+    <string name="trigo">TRIGONOMETRIA</string>
+    <string name="about">Acerca de.</string>
+    //REGRESAR
+    <string name="volver">REGRESAR</string>
+    //ABOUT
+    <string name="desarrollo">Desarrollado por: Jimenez Delgado Edson Ivan</string>
+    <string name="tool">Herramienta: IDE Android Studio Version 3.3.2</string>
+    <string name="obj">Objetivo:
+        Aplicacion diseñada para los estudiantes que requieren de apoyo con formularios sencillos.
+    Cuenta con diversos formularios que pueden ser utiles para estudiantes de Preparatoria o Universidad.</string>
+</resources>
